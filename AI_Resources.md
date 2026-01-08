@@ -13,11 +13,19 @@ After this short course, you'll be able to:
  ** https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/**
 
  2) Claude Code for Product Managers - https://ccforpms.com/ + Source Repository: github.com/carlvellotti/claude-code-pm-course
+ 3) How to a project in Claude Code (Claude Code prompts)
+         1. Open Claude Code
+         2. Dump everything about your work—your work/role, tools you touch daily, tasks you repeat, stuff that annoys you, wild ideas you've always wanted to try, your passions, your hobbies, etc
+         3. Paste this:
+        "Based on what I shared, ask me 5-7 questions to understand my workflow better. Then suggest 3 things I could build, ranked by impact vs complexity. Use the AskUserQuestion tool to help me"
+         Answer honestly (specifics = better suggestions)
+         4. Pick the one that makes you go "wait, that's possible?"
+    source: @krispuckett
 
-Understanding Deep Learning Book - https://udlbook.github.io/udlbook/
+5) Understanding Deep Learning Book - https://udlbook.github.io/udlbook/
 
 
-Paper - Epistemic Diversity and Knowledge Collapse in Large Language Models - https://arxiv.org/abs/2510.04226v5
+6) Paper - Epistemic Diversity and Knowledge Collapse in Large Language Models - https://arxiv.org/abs/2510.04226v5
     Here the main results :
       - Larger models are consistently less diverse than smaller ones but also 
         than basic web search (cf. 2nd picture)
@@ -26,9 +34,9 @@ Paper - Epistemic Diversity and Knowledge Collapse in Large Language Models - ht
     - Researchers see improvements in diversity
 
 
-Algorithms book - https://jeffe.cs.illinois.edu/teaching/algorithms/
+7) Algorithms book - https://jeffe.cs.illinois.edu/teaching/algorithms/
 
-Vibe coding stack:
+8) Vibe coding stack:
 
     OpenCode + the "Oh My OpenCode" plugin. 
 
@@ -40,3 +48,5 @@ Vibe coding stack:
     · Grok Code - fast codebase exploration
     · Gemini 3 Pro -  frontend UI/UX work
     · Gemini 3 Flash - writing docs & file analysis
+   
+10) VS Code now connects directly to Google Colab. You get a free T4 GPU inside your editor. - https://colab.research.google.com/
