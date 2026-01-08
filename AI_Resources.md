@@ -12,6 +12,8 @@ After this short course, you'll be able to:
 
  ** https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/**
 
+ 2) Claude Code for Product Managers - https://ccforpms.com/ + Source Repository: github.com/carlvellotti/claude-code-pm-course
+
 Understanding Deep Learning Book - https://udlbook.github.io/udlbook/
 
 
