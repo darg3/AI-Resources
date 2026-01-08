@@ -1,3 +1,17 @@
+1) The definitive course on Claude Code, created with @AnthropicAI
+ and taught by Elie Schoppik @eschoppik
+. If you want to use highly agentic coding - where AI works autonomously for many minutes or longer, not just completing code snippets - this is it.
+
+ This comprehensive course covers everything from fundamentals to advanced patterns.
+
+After this short course, you'll be able to:
+- Orchestrate multiple Claude subagents to work on different parts of your codebase simultaneously
+- Tag Claude in GitHub issues and have it autonomously create, review, and merge pull requests
+- Transform messy Jupyter notebooks into clean, production-ready dashboards
+- Use MCP tools like Playwright so Claude can see what's wrong with your UI and fix it autonomously
+
+ ** https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/**
+
 Understanding Deep Learning Book - https://udlbook.github.io/udlbook/
 
 
