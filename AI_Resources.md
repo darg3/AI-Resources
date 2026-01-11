@@ -50,3 +50,5 @@ After this short course, you'll be able to:
     · Gemini 3 Flash - writing docs & file analysis
    
 10) VS Code now connects directly to Google Colab. You get a free T4 GPU inside your editor. - https://colab.research.google.com/
+
+11) Roadmap for learning robotics - https://github.com/mithi/robotics-coursework
