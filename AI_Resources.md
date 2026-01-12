@@ -52,3 +52,4 @@ After this short course, you'll be able to:
 10) VS Code now connects directly to Google Colab. You get a free T4 GPU inside your editor. - https://colab.research.google.com/
 
 11) Roadmap for learning robotics - https://github.com/mithi/robotics-coursework
+12) Learn Fusion 360 and then CAD - https://www.autodesk.com/products/fusion-360/choose-usage; CAD course : sendcutsend.com
