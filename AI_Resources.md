@@ -54,3 +54,5 @@ After this short course, you'll be able to:
 11) Roadmap for learning robotics - https://github.com/mithi/robotics-coursework
 12) Learn Fusion 360 and then CAD - https://www.autodesk.com/products/fusion-360/choose-usage; CAD course : sendcutsend.com
 13) What is inference? the process where a trained AI model uses its learned knowledge to make predictions or decisions based on new data. It is the operational phase that follows training, allowing the AI to apply what it has learned to real-world situations. Inference is when an AI model analyzes input data and generates an output, such as a prediction or classification. For example, a self-driving car uses inference to recognize a stop sign it has never encountered before.
+
+14) Threejs Skills for Claude Code to create 3D Web Design Elements - https://github.com/CloudAI-X/threejs-skills
