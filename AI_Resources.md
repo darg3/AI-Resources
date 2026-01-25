@@ -56,3 +56,4 @@ After this short course, you'll be able to:
 13) What is inference? the process where a trained AI model uses its learned knowledge to make predictions or decisions based on new data. It is the operational phase that follows training, allowing the AI to apply what it has learned to real-world situations. Inference is when an AI model analyzes input data and generates an output, such as a prediction or classification. For example, a self-driving car uses inference to recognize a stop sign it has never encountered before.
 
 14) Threejs Skills for Claude Code to create 3D Web Design Elements - https://github.com/CloudAI-X/threejs-skills
+15) Private lesson on Claude Cowork & Claude Code video with Boris Cherny the creator of Claude - https://www.youtube.com/watch?v=DW4a1Cm8nG4
