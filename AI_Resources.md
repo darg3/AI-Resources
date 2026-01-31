@@ -57,3 +57,4 @@ After this short course, you'll be able to:
 
 14) Threejs Skills for Claude Code to create 3D Web Design Elements - https://github.com/CloudAI-X/threejs-skills
 15) Private lesson on Claude Cowork & Claude Code video with Boris Cherny the creator of Claude - https://www.youtube.com/watch?v=DW4a1Cm8nG4
+16) https://github.com/karpathy
