@@ -58,3 +58,19 @@ After this short course, you'll be able to:
 14) Threejs Skills for Claude Code to create 3D Web Design Elements - https://github.com/CloudAI-X/threejs-skills
 15) Private lesson on Claude Cowork & Claude Code video with Boris Cherny the creator of Claude - https://www.youtube.com/watch?v=DW4a1Cm8nG4
 16) https://github.com/karpathy
+17) Go to http://hetzner.com
+
+    Set up a $2.50/mo VPS
+    
+    Add SSH key when creating
+    
+    Login, first install Tailscale on VPS and laptop
+    
+    Once it works add the Tailscale subnet (google the address) to Hetzner inbound firewall SSH port, don't add any more inbound ports
+    
+    Now only u can SSH into it, safe
+    
+    Then install OpenClaw on the VPS via SSH
+    
+    Don't connect any of your accounts, make a Telegram bot and add that
+    Then play with it! source @levelsio
