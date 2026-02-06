@@ -74,3 +74,33 @@ After this short course, you'll be able to:
     
     Don't connect any of your accounts, make a Telegram bot and add that
     Then play with it! source @levelsio
+    
+19) Great question! When you use /learn three.js in Claude Code, here's what happens step-by-step:
+    1. Skill Creation Process Begins
+    I recognize that you want to teach me about Three.js, and I start creating a structured skill file.
+    2. I Generate a SKILL.md File
+    I create a markdown file at /mnt/skills/user/three.js/SKILL.md that contains:
+    
+    Description: What this skill is for (Three.js development best practices)
+    Guidelines: Specific instructions on how to use Three.js effectively
+    Common patterns: Code examples, best practices, gotchas to avoid
+    Use cases: When and how to apply this knowledge
+    
+    3. Content Gathering
+    I'll likely use web search to gather current, accurate information about:
+    
+    Latest Three.js best practices
+    Common pitfalls and how to avoid them
+    Performance optimization tips
+    Recommended patterns and anti-patterns
+    Version-specific information
+    
+    4. Skill Becomes Available
+    Once created, this skill is stored persistently and shows up in my <available_skills> list that I can see at the start of each conversation.
+    5. Future Use
+    In future conversations, when you ask me to do anything related to 3D graphics or Three.js:
+    
+    I'll automatically recognize that my three.js skill is relevant
+    I'll use the view tool to read /mnt/skills/user/three.js/SKILL.md
+    I'll follow the guidelines and best practices documented there
+    My responses will be informed by the specialized knowledge in that skill
