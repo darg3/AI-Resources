@@ -156,4 +156,6 @@ After this short course, you'll be able to:
       - **Simplicity First**: Make every change as simple as possible. Impact minimal code.
       - **No Laziness**: Find root causes. No temporary fixes. Senior developer standards.
       - **Minimal Impact**: Changes should only touch what's necessary. Avoid introducing bugs.
-      - source @@promptcowboy on X
+      - source @promptcowboy on X
+
+21) https://www.linkedin.com/pulse/everything-can-misunderstood-vibecoders-guide-galaxy-amarie-pe3hf
