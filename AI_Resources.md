@@ -158,4 +158,6 @@ After this short course, you'll be able to:
       - **Minimal Impact**: Changes should only touch what's necessary. Avoid introducing bugs.
       - source @promptcowboy on X
 
-21) https://www.linkedin.com/pulse/everything-can-misunderstood-vibecoders-guide-galaxy-amarie-pe3hf
+21) https://www.linkedin.com/pulse/everything-can-misunderstood-vibecoders-guide-galaxy-amarie-pe3hf - some vibecodind interesting guidelines
+
+22) https://github.com/GorvGoyl/Clone-Wars - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. 
