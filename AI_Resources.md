@@ -160,4 +160,5 @@ After this short course, you'll be able to:
 
 21) https://www.linkedin.com/pulse/everything-can-misunderstood-vibecoders-guide-galaxy-amarie-pe3hf - some vibecodind interesting guidelines
 
-22) https://github.com/GorvGoyl/Clone-Wars - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars. 
+22) https://github.com/GorvGoyl/Clone-Wars - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+23) https://github.com/RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store 
