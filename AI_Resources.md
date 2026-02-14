@@ -164,3 +164,5 @@ After this short course, you'll be able to:
 23) https://github.com/RevylAI/greenlight - Pre-submission compliance scanner for the Apple App Store
 
 24) Design, Color Palette, UI/UX Design - [colorpallete.pro](https://colorpalette.pro)
+    
+26) [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
