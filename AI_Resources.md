@@ -166,3 +166,5 @@ After this short course, you'll be able to:
 24) Design, Color Palette, UI/UX Design - [colorpallete.pro](https://colorpalette.pro)
     
 26) [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
+
+27) Voice NVIDIA PersonaPlex 7b v1 [https://huggingface.co/nvidia/personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)
