@@ -170,3 +170,9 @@ After this short course, you'll be able to:
 27) Voice NVIDIA PersonaPlex 7b v1 [https://huggingface.co/nvidia/personaplex-7b-v1](https://huggingface.co/nvidia/personaplex-7b-v1)
 
 28) [https://www.anthropic.com/news/claude-code-security](https://www.anthropic.com/news/claude-code-security) - Static analysis—a widely deployed form of automated security testing—is typically rule-based, meaning it matches code against known vulnerability patterns. That catches common issues, like exposed passwords or outdated encryption, but often misses more complex vulnerabilities, like flaws in business logic or broken access control.
+
+29) Ask Codex to generate unit & e2e tests with 100% coverage literally turns your vibe-coded half-baked project into a full-blown production-ready product.
+
+In addition, ask it to conduct a serious security audit and fix all issues 
+
+(make sure to connect Stripe/Vercel/Supabase MCPS, so that it also checks all the settings there, that's where most of the security holes are, e.g., inside Supabase). 
