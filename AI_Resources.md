@@ -1,4 +1,4 @@
-1) The definitive course on Claude Code, created with @AnthropicAI
+**1)** The definitive course on Claude Code, created with @AnthropicAI
  and taught by Elie Schoppik @eschoppik
 . If you want to use highly agentic coding - where AI works autonomously for many minutes or longer, not just completing code snippets - this is it.
 
@@ -12,8 +12,8 @@ After this short course, you'll be able to:
 
  ** https://www.deeplearning.ai/short-courses/claude-code-a-highly-agentic-coding-assistant/**
 
- 2) Claude Code for Product Managers - https://ccforpms.com/ + Source Repository: github.com/carlvellotti/claude-code-pm-course
- 3) How to a project in Claude Code (Claude Code prompts)
+ **2)** Claude Code for Product Managers - https://ccforpms.com/ + Source Repository: github.com/carlvellotti/claude-code-pm-course
+ **3)** How to a project in Claude Code (Claude Code prompts)
          1. Open Claude Code
          2. Dump everything about your work—your work/role, tools you touch daily, tasks you repeat, stuff that annoys you, wild ideas you've always wanted to try, your passions, your hobbies, etc
          3. Paste this:
@@ -21,6 +21,8 @@ After this short course, you'll be able to:
          Answer honestly (specifics = better suggestions)
          4. Pick the one that makes you go "wait, that's possible?"
     source: @krispuckett
+
+4)
 
 5) Understanding Deep Learning Book - https://udlbook.github.io/udlbook/
 
