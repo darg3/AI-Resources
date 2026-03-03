@@ -180,3 +180,5 @@ In addition, ask it to conduct a serious security audit and fix all issues
 (make sure to connect Stripe/Vercel/Supabase MCPS, so that it also checks all the settings there, that's where most of the security holes are, e.g., inside Supabase). 
 
 30) [https://contextplus.vercel.app/](https://contextplus.vercel.app/) - agent using this tool used ~6.5k fewer tokens; open source solution to context bloat - still under development
+
+31) [https://github.com/AlexsJones/llmfit ](https://github.com/AlexsJones/llmfit) A terminal tool that right-sizes LLM models to your system's RAM, CPU, and GPU. Detects your hardware, scores each model across quality, speed, fit, and context dimensions, and tells you which ones will actually run well on your machine.
