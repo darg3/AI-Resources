@@ -187,4 +187,6 @@ In addition, ask it to conduct a serious security audit and fix all issues
 
 33) https://notebooklm.google/ - Upload PDFs, websites, YouTube videos, audio files, Google Docs, Google Slides and more, and NotebookLM will summarize them and make interesting connections between topics, all powered by the latest version of Gemini’s multimodal understanding capabilities.
 
-34) The Complete Guideto Building Skills for Claude [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en) 
+34) The Complete Guideto Building Skills for Claude [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
+
+35) [Seedance 2.0 ](https://seed.bytedance.com/en/seedance2_0)- very realistic video generation tool
