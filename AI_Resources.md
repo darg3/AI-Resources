@@ -190,3 +190,13 @@ In addition, ask it to conduct a serious security audit and fix all issues
 34) The Complete Guideto Building Skills for Claude [https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en](https://resources.anthropic.com/hubfs/The-Complete-Guide-to-Building-Skill-for-Claude.pdf?hsLang=en)
 
 35) [Seedance 2.0 ](https://seed.bytedance.com/en/seedance2_0)- very realistic video generation tool
+
+36) [Stanford CS336 - Language modeling from scratch by Percy Liang](https://www.youtube.com/watch?v=SQ3fZ1sAqXI&list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_) - you build an LLM. Free on youtube
+
+   Check prerequisites [https://cs336.stanford.edu/](https://cs336.stanford.edu/)
+
+38) [Digital Design and Computer Architecture - L1: Intro: Fundamentals, Transistors, Gates (Spring 2025) ](https://www.youtube.com/watch?v=ubhxKNlOlRg&list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
+
+    
+
+    
