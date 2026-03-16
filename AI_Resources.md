@@ -195,7 +195,10 @@ In addition, ask it to conduct a serious security audit and fix all issues
 
    Check prerequisites [https://cs336.stanford.edu/](https://cs336.stanford.edu/)
 
-38) [Digital Design and Computer Architecture - L1: Intro: Fundamentals, Transistors, Gates (Spring 2025) ](https://www.youtube.com/watch?v=ubhxKNlOlRg&list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
+37) [Digital Design and Computer Architecture - L1: Intro: Fundamentals, Transistors, Gates (Spring 2025) ](https://www.youtube.com/watch?v=ubhxKNlOlRg&list=PL5Q2soXY2Zi9Eo29LMgKVcaydS7V1zZW3)
+
+38) [https://paperclip.ing/](https://paperclip.ing/) Hire AI employees, set goals, automate jobs and
+your business runs itself. https://github.com/paperclipai/paperclip
 
     
 
