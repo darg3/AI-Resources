@@ -200,6 +200,10 @@ In addition, ask it to conduct a serious security audit and fix all issues
 38) [https://paperclip.ing/](https://paperclip.ing/) Hire AI employees, set goals, automate jobs and
 your business runs itself. https://github.com/paperclipai/paperclip
 
+39) [https://github.com/Vaibhavs10/insanely-fast-whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) An opinionated CLI to transcribe Audio files ranscribe 150 minutes (2.5 hours) of audio in less than 98 seconds - with OpenAI's Whisper Large v3.
+
+
+
     
 
     
