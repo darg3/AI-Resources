@@ -204,6 +204,21 @@ your business runs itself. https://github.com/paperclipai/paperclip
 
 40) [The ultimate guide to Grok Imagine videos](https://x.com/XCreators/status/2037642851732066580)
 
+41) Today Claude Code source code was leaked due to an npm account hijack [https://github.com/instructkr/claw-code](https://github.com/instructkr/claw-code)
+     - Make sure you always commit your project with the package-lock.json file. It is the ONLY version locking enforcement mechanism.
+     
+     - Use npm ci instead of npm install. The first one will work ONLY if package-lock.json exists.
+     
+     - If you need to update or pull new packages, use the --min-release-age flag (available since npm v11.10.0) to make sure you only install updates, which are at least 7 days old:
+     
+     npm install --min-release-age=7
+     
+     Or hardcode this setting into your .npmrc file:
+     
+     min-release-age=7
+     
+     There will be more malicious updates to popular npm packages in the future, driven by supply chain attacks. It's just the        beginning. Hopefully, they will be caught in the first 24 hours.
+
 
 
     
