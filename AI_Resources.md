@@ -243,6 +243,8 @@ your business runs itself. https://github.com/paperclipai/paperclip
     → /careful and /freeze add safety guardrails that warn before destructive commands like rm -rf or DROP TABLE
     source: @Meer_AIIT
 
+43) mesh-llm: pool compute to run open models. built by @michaelneale at block: https://docs.anarchai.org
+
 
 
     
