@@ -219,6 +219,30 @@ your business runs itself. https://github.com/paperclipai/paperclip
      
      There will be more malicious updates to popular npm packages in the future, driven by supply chain attacks. It's just the        beginning. Hopefully, they will be caught in the first 24 hours.
 
+42) ##[GStack](https://github.com/garrytan/gstack) - An eng manager who locks architecture. A designer who catches AI slop. A QA lead who opens a real browser and clicks through your app.
+
+    A security officer who runs OWASP audits. A release engineer who ships the PR.
+    
+    23 specialists. 8 power tools. All Markdown files. All free.
+    
+    Garry Tan built this while running Y Combinator full-time. He's been shipping 10,000 to 20,000 lines of production code per day. Part-time. In the last 60 days: 600,000+ lines of production code with 35% test coverage.
+    
+    Here's what you get:
+    
+    → /office-hours runs a YC-style founder session that reframes your product before you write a single line of code
+    → /plan-ceo-review rethinks your feature and finds the 10-star product hiding inside it
+    → /plan-eng-review generates architecture diagrams, data flow, edge cases, and a full test matrix
+    → /review does staff-engineer-level code review and auto-fixes obvious bugs on the spot
+    → /qa opens a real Chromium browser, clicks through your staging app, finds bugs, writes regression tests, and verifies the fixes
+    → /cso runs OWASP Top 10 and STRIDE threat models with zero false-positive noise
+    → /ship syncs main, runs tests, audits coverage, pushes, and opens the PR in one command
+    → /browse gives your agent a persistent browser with sub-100ms latency per command
+    → /design-shotgun generates multiple design variants and opens a comparison board in your browser
+    → /retro runs a team-aware weekly retro with per-person breakdowns and shipping streaks
+    → /codex gets a second opinion from OpenAI's Codex CLI so two different AIs review the same diff
+    → /careful and /freeze add safety guardrails that warn before destructive commands like rm -rf or DROP TABLE
+    source: @Meer_AIIT
+
 
 
     
