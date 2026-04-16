@@ -245,7 +245,9 @@ your business runs itself. https://github.com/paperclipai/paperclip
 
 43) mesh-llm: pool compute to run open models. built by @michaelneale at block: https://docs.anarchai.org
 
-44) [https://github.com/forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls. 
+44) [https://github.com/forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+
+45) The First Commercially Viable 1-bit LLMs - [https://prismml.com/news/bonsai-8b](https://prismml.com/news/bonsai-8b) [https://huggingface.co/prism-ml/Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)
 
 
 
