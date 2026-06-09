@@ -249,7 +249,9 @@ your business runs itself. https://github.com/paperclipai/paperclip
 
 45) The First Commercially Viable 1-bit LLMs - [https://prismml.com/news/bonsai-8b](https://prismml.com/news/bonsai-8b) [https://huggingface.co/prism-ml/Bonsai-8B-gguf](https://huggingface.co/prism-ml/Bonsai-8B-gguf)
 
-46) a masterclass in coding agents from Anthropic [Vibe coding in prod | Code w/ Claude](https://www.youtube.com/watch?v=fHWFF_pnqDk) 
+46) a masterclass in coding agents from Anthropic [Vibe coding in prod | Code w/ Claude](https://www.youtube.com/watch?v=fHWFF_pnqDk)
+
+47) A Masterclass in using LLM in day to day tasks by Andrej Karpathy [https://www.youtube.com/watch?v=EWvNQjAaOHw](https://www.youtube.com/watch?v=EWvNQjAaOHw)
 
 
 
