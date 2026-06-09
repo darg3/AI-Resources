@@ -401,3 +401,9 @@ Code w/ Claude: https://www.youtube.com/watch?v=fHWFF_pnqDk
 By Andrej Karpathy
 
 https://www.youtube.com/watch?v=EWvNQjAaOHw
+
+## 48) NotebookLM is an AI-powered research and note-taking tool developed by Google. It assists users in summarizing and interacting with their documents, making it a valuable resource for students, researchers, and professionals.
+
+can create audio/ podcast style summary
+
+https://notebooklm.google/
