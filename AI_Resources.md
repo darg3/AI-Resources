@@ -407,3 +407,7 @@ https://www.youtube.com/watch?v=EWvNQjAaOHw
 can create audio/ podcast style summary
 
 https://notebooklm.google/
+
+## 49) Unlimited OCR Model - entire book in a single pass
+
+https://huggingface.co/baidu/Unlimited-OCR
