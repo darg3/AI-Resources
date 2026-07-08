@@ -411,3 +411,7 @@ https://notebooklm.google/
 ## 49) Unlimited OCR Model - entire book in a single pass
 
 https://huggingface.co/baidu/Unlimited-OCR
+
+## 50) How Loops Work - Claude Code 
+
+https://claude.com/blog/getting-started-with-loops
