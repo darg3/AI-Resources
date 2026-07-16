@@ -415,3 +415,7 @@ https://huggingface.co/baidu/Unlimited-OCR
 ## 50) How Loops Work - Claude Code 
 
 https://claude.com/blog/getting-started-with-loops
+
+## 51) Aval - open-source format for interactive video on the web
+
+https://github.com/pixel-point/aval
