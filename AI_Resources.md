@@ -419,3 +419,8 @@ https://claude.com/blog/getting-started-with-loops
 ## 51) Aval - open-source format for interactive video on the web
 
 https://github.com/pixel-point/aval
+
+## 52) Kimi K3 launched - open-weight model and said the full model weights will be released by July 27, 2026
+
+https://platform.kimi.ai/docs/guide/kimi-k3-quickstart
+https://www.kimi.com/en
