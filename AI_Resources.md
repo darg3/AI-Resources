@@ -424,3 +424,7 @@ https://github.com/pixel-point/aval
 
 https://platform.kimi.ai/docs/guide/kimi-k3-quickstart
 https://www.kimi.com/en
+
+## 53) Kimi K3 model weights 
+
+https://huggingface.co/moonshotai/Kimi-K3
