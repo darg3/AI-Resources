@@ -428,3 +428,7 @@ https://www.kimi.com/en
 ## 53) Kimi K3 model weights 
 
 https://huggingface.co/moonshotai/Kimi-K3
+
+## 54) Kimi K3 that runs on CPU not GPU 
+
+https://github.com/FareedKhan-dev/kimi-k3-in-c
