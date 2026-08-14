@@ -435,5 +435,5 @@ https://github.com/FareedKhan-dev/kimi-k3-in-c
 
 ## 55) GLM 5.3 Built to code. Ready for cyber defense.
 
-https:/z.ai/blog/glm-5.3
+https://z.ai/blog/glm-5.3
 
