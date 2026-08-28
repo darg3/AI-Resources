@@ -437,3 +437,9 @@ https://github.com/FareedKhan-dev/kimi-k3-in-c
 
 https://z.ai/blog/glm-5.3
 
+## 56) GLM 5.3 is now open-weight
+
+https://huggingface.co/zai-org/GLM-5.3
+
+
+
