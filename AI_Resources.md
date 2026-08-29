@@ -441,5 +441,9 @@ https://z.ai/blog/glm-5.3
 
 https://huggingface.co/zai-org/GLM-5.3
 
+## 57) Kimi K3 was added to NVIDIA NIM (free inference) - limits 60 requests per minute
+
+https://build.nvidia.com/moonshotai/kimi-k3
+
 
 
