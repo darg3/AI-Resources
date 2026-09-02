@@ -445,5 +445,9 @@ https://huggingface.co/zai-org/GLM-5.3
 
 https://build.nvidia.com/moonshotai/kimi-k3
 
+## 58) Qwen3.8-Max got upgraded to Qwen3.8-Max-0902 - further post trained on Coding and Cowork
+
+https://www.qwencloud.com/models/qwen3.8-max-0902
+
 
 
