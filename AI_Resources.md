@@ -449,5 +449,9 @@ https://build.nvidia.com/moonshotai/kimi-k3
 
 https://www.qwencloud.com/models/qwen3.8-max-0902
 
+## 59) TypeSafe AI is releasing first System One Model: a new class of frontier models built to make fast, structured decisions that software can use directly. First public model is Jev, available today in early access. Jev achieves similar levels of intelligence on System One tasks compared to existing LLMs, while being two orders of magnitude faster and more efficient. While Jev gives up string generation, it’s optimized for structured outputs and can’t hallucinate. 
+
+https://typesafe.ai/blog/introducing-system-one-models-and-jev
+
 
 
