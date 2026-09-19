@@ -453,5 +453,12 @@ https://www.qwencloud.com/models/qwen3.8-max-0902
 
 https://typesafe.ai/blog/introducing-system-one-models-and-jev
 
+## 60) Agent QA - Natural-Language Web and Mobile QA
 
+Source-available CLI and MCP server for writing and running natural-language tests against web and mobile applications.
 
+https://github.com/vostride/agent-qa
+
+Documentation: https://vostride.com/docs/agent-qa
+
+The package itself has no fee; configured model, browser, or device providers may charge separately. Current releases use FSL-1.1-ALv2 and are source-available rather than OSI open source; each release converts to Apache-2.0 two years after publication.
