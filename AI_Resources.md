@@ -453,5 +453,9 @@ https://www.qwencloud.com/models/qwen3.8-max-0902
 
 https://typesafe.ai/blog/introducing-system-one-models-and-jev
 
+## 60) Cloudflare's Clef beat Jev in just 2 weeks and it's open source
+
+https://huggingface.co/Cloudflare/clef
+
 
 
